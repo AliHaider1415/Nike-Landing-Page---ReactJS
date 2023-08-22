@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Nike-Landing-Page---ReactJS/static/css/main.7c6fd503.css",
+    "main.js": "/Nike-Landing-Page---ReactJS/static/js/main.326a0ef2.js",
+    "static/js/787.c3909a56.chunk.js": "/Nike-Landing-Page---ReactJS/static/js/787.c3909a56.chunk.js",
+    "static/media/nike_shoe.png": "/Nike-Landing-Page---ReactJS/static/media/nike_shoe.25e3150f71f3ede402c8.png",
+    "static/media/flipkart_logo.png": "/Nike-Landing-Page---ReactJS/static/media/flipkart_logo.fb3ec24ddcc7da1ac7ad.png",
+    "static/media/nike_logo.jpg": "/Nike-Landing-Page---ReactJS/static/media/nike_logo.8abe6903a4ac22275003.jpg",
+    "static/media/amazon_logo.jpg": "/Nike-Landing-Page---ReactJS/static/media/amazon_logo.c7e7216d10b17eb19792.jpg",
+    "index.html": "/Nike-Landing-Page---ReactJS/index.html",
+    "main.7c6fd503.css.map": "/Nike-Landing-Page---ReactJS/static/css/main.7c6fd503.css.map",
+    "main.326a0ef2.js.map": "/Nike-Landing-Page---ReactJS/static/js/main.326a0ef2.js.map",
+    "787.c3909a56.chunk.js.map": "/Nike-Landing-Page---ReactJS/static/js/787.c3909a56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c6fd503.css",
+    "static/js/main.326a0ef2.js"
+  ]
+}
