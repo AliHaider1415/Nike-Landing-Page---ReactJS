@@ -1,0 +1,41 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+    font-family: 'Poppins', sans-serif;
+}
+.nav_elems {
+    display: flex;
+    margin-top: 1%;
+}
+
+.nav_elems ul {
+    list-style: none; /* Remove default list styles */
+    display: flex; /* Apply flex display to the ul */
+}
+
+.nav_elems ul li {
+    margin-right: 20px; /* Add some spacing between list items if needed */
+}
+.nav_elems ul li a{
+    text-decoration: none;
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: black;
+    padding: 5%
+}
+.nav_elems ul li a:hover{
+    color: white;
+    background-color: red;
+    transition: 0.2s;
+}
+.navbar button{
+    width: 5%;
+    height: 40px;
+    align-self: center;
+    font-size: 0.9vw;
+    color: white;
+    background-color: rgb(245, 8, 8);
+    border: none;
+    cursor: pointer;
+}

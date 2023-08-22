@@ -1,0 +1,35 @@
+.menu_container{
+    display: flex;
+   justify-content: space-between;
+    width: 75%;
+    margin: 0 2% 0 13%;
+    height: 600px;
+}
+.desc_container{
+    max-width: 35%;
+}
+.buttons{
+    width: 70%;
+    height: 7%;
+    display: flex;
+    justify-content: space-between;
+}
+#shop_btn, #category_btn{
+    height: 100%;
+    width: 40%;
+    font-size: 1vw;
+    border: none;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+}
+.brands_logo img{
+    width: 20%;
+}
+#shoe_img{
+    width: 60%;
+    margin-top: 2%;
+    padding: 5px;
+    border-radius: 50%;
+}
+
